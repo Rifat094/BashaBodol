@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1019125425482",
+    "firebase_url": "https://bashabodol-64833.firebaseio.com",
+    "project_id": "bashabodol-64833",
+    "storage_bucket": "bashabodol-64833.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019125425482:android:213668952471a2a9",
+        "android_client_info": {
+          "package_name": "com.system.kuet.bashabodol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019125425482-vduh082o8ts9ooolo77mgf0jbh0161s4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.system.kuet.bashabodol",
+            "certificate_hash": "3597feecd3b89a1814a46ed1aa54ec7ba87ab023"
+          }
+        },
+        {
+          "client_id": "1019125425482-rhc7bv4bn7au6ei6stf4dgt0g8tvf40s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg0q3QZvmf-gutoK4wNIhaXemrzmeXAgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019125425482-rhc7bv4bn7au6ei6stf4dgt0g8tvf40s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
